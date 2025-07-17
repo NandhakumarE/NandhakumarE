@@ -48,8 +48,14 @@ Mentored over 700 aspiring developers, and I love turning ideas into side projec
 **<h3 align="left">GitHub Repo</h3>**
 
 <p align="left">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nandhakumarE&repo=lexpad&theme=default&cache_seconds=1800&border_radius=4&show_owner=true&hide_border=false" alt="GitHub repo-card Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nandhakumarE&repo=design-patterns-ts&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nandhakumarE&repo=just-js-prep&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
+    <a href="https://github.com/NandhakumarE/lexpad" target="_blank">
+        <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nandhakumarE&repo=lexpad&theme=default&cache_seconds=1800&border_radius=4&show_owner=true&hide_border=false" alt="GitHub repo-card Card" />
+    </a>
+    <a href="https://github.com/NandhakumarE/design-patterns-ts" target="_blank">
+        <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nandhakumarE&repo=design-patterns-ts&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
+    </a>
+    <a href="https://github.com/NandhakumarE/just-js-prep" target="_blank">
+        <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nandhakumarE&repo=just-js-prep&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
+    </a>
 </p>
 
